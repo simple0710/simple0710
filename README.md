@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=center>
-  <a>
+  <a href="https://solved.ac/profile/simple710">
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
   </a>
 </p>
