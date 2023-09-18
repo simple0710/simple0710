@@ -50,6 +50,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=simple710&theme=cold)
-
 </div>
 
