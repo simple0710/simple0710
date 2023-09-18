@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<div aline=center>
-  
-</div>
-[![Solved.ac
-  Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
-hello world
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
+
