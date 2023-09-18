@@ -20,5 +20,6 @@ Here are some ideas to get you started:
   
 </div>
 [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=simple710)](https://solved.ac/simple710)
+  Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
 hello world
