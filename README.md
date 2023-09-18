@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align=center>
-  <a href="https://solved.ac/profile/simple710">
+<div style="text-align: center">
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=simple710)](https://solved.ac/profile/simple710)
-  </a>
-</p>
+</div>
 
