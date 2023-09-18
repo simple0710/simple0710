@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <br>
 <div aline=center>
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={simple710})](https://solved.ac/{simple710})
+  
 </div>
+[![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={simple710})](https://solved.ac/{simple710})
 hello world
