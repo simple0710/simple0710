@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- 소개문 -->
 <div align="center">
   <h2>Introduction</h2>
-  <p>"B 매일 조금씩 더 나은 개발자가 되기 위해 노력하는 김찬민입니다."</p>
+  <p>"매일 조금씩 더 나은 개발자가 되기 위해 노력하는 김찬민입니다."</p>
 </div>
 
 <br>
