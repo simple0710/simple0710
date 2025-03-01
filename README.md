@@ -16,34 +16,52 @@ Here are some ideas to get you started:
 -->
 <!-- 소개문 -->
 <div align="center">
-  <h2>Introduction</h2>
-  <p>"매일 조금씩 더 나은 개발자가 되기 위해 노력하는 김찬민입니다."</p>
+  <h2>🚀 Introduction</h2>
+  <p><b>"꾸준히 발전하려는 개발자 김찬민입니다."</b></p>
 </div>
 
 <br>
 <!-- 기술 -->
 <div>
-  <h2 align="center">Skill</h2>
-  <div align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  </div>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=Spring&logoColor=white"/>
-  </div>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  </div>
-</div>
+  <h2 align="center">📚 Skill</h2>
+  <table align="center" style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <th style="width: 50%; height: 30px; text-align: center; border: 1px solid #000; vertical-align: middle; border-right: 2px solid #000;">Backend</th>
+        <th style="width: 50%; height: 30px; text-align: center; border: 1px solid #000; vertical-align: middle;">DBMS</th>
+    </tr>
+    <tr>
+        <td style="width: 50%; height: 50px; text-align: center; border: 1px solid #000; vertical-align: middle; border-right: 2px solid #000;">
+            <img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=Spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Java-1E88E5?style=flat&logo=Java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JPA-6C3FA6?style=flat&logo=JPA&logoColor=white"/>
+        </td>
+        <td style="width: 50%; height: 50px; text-align: center; border: 1px solid #000; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <th style="width: 50%; height: 30px; text-align: center; border: 1px solid #000; vertical-align: middle; border-right: 2px solid #000;">DevOps</th>
+        <th style="width: 50%; height: 30px; text-align: center; border: 1px solid #000; vertical-align: middle;">Tools</th>
+    </tr>
+    <tr>
+        <td style="width: 50%; height: 50px; text-align: center; border: 1px solid #000; vertical-align: middle; border-right: 2px solid #000;">
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+        </td>
+        <td style="width: 50%; height: 50px; text-align: center; border: 1px solid #000; vertical-align: middle;">
+            <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+        </td>
+    </tr>
+</table>
 <br>
 
 <!-- 백준 티어 및 스트릭 -->
 <div>
   
-<h2 align="center">Solved.ac</h2>
+<h2 align="center"> 🎯 Solved.ac</h2>
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=simple710)](https://solved.ac/simple710)
